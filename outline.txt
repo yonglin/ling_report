@@ -26,3 +26,8 @@ http://www.firstround.com/article/the-management-framework-that-propelled-Linked
 great organization means great efficiency
 
  tremendous
+ 而OKR的思路是一定程度上的自下而上，个人提出目标，然后对目标进行量化。通过把大量的个人目标进行统一，汇总成公司的目标。
+
+ After OKRs were invented at Intel, and made popular by John Doerr.[1] While OKRs were first deployed at large companies such as Intel and Oracle, OKRs are used today by companies of virtually all sizes, including Google,[2] LinkedIn,[3] and Zynga.[4]
+
+Inspired by a John Doerr presentation in the late 90s, Google introduced OKRs in its early days. For an overview on the history and definition of OKRs, view the workshop from Google Ventures Startup Lab.[5]
